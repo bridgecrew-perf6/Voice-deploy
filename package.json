@@ -1,0 +1,22 @@
+{
+  "name": "voice-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultanMachido/Voice-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanMachido/Voice-deploy/issues"
+  },
+  "homepage": "https://github.com/sultanMachido/Voice-deploy#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
